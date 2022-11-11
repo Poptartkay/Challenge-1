@@ -1,6 +1,6 @@
 Challenge-1
 ## Description:
-In this Challenge we were given a webpage in which wwe had to make it more accessbile,
+In this Challenge we were given a webpage in which we had to make it more accessible,
 and more optimized for search engines. While going into this challenge I felt I had no 
 idea what any of that meant, and can confidentally say that I still probably don't, I 
 can say that I feel more confident about my repo's and how to properly deploy and work 
