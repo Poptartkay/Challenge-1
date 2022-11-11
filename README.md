@@ -7,5 +7,5 @@ can say that I feel more confident about my repo's and how to properly deploy an
 with my machine. Overall this was an interesting challenge that taught me a lot about what
 is most likely to happen on a day to day job. 
 
-!webpage image
+
 
