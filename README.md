@@ -2,7 +2,7 @@ Challenge-1
 ## Table of contents
 ​
   - [The challenge](#the-challenge)
-  - [Links]
+  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -36,8 +36,8 @@ THEN I find a concise, descriptive title
 ### Links
 ​
 
-- Live Site URL: 
-- Github Repo :
+- Live Site URL: https://poptartkay.github.io/Challenge-1/
+- Github Repo :https://github.com/Poptartkay/Challenge-1
 ​
 ### Built with
 ​
@@ -65,3 +65,5 @@ Kay Ford
 
 
 
+![Screenshot (43)](https://user-images.githubusercontent.com/91912984/208343528-270b141d-ec59-442d-b609-d0a4e80f0efb.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/91912984/208343541-d136cff0-8fb3-4aa3-85a2-586662a7c640.png)
